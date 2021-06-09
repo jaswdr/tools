@@ -1,0 +1,24 @@
+[submodule "bat"]
+	path = bat
+	url = https://github.com/sharkdp/bat
+[submodule "ripgrep"]
+	path = ripgrep
+	url = https://github.com/BurntSushi/ripgrep
+[submodule "fzf"]
+	path = fzf
+	url = https://github.com/junegunn/fzf
+[submodule "jq"]
+	path = jq
+	url = https://github.com/stedolan/jq
+[submodule "httpie"]
+	path = httpie
+	url = https://github.com/httpie/httpie
+[submodule "ytfzf"]
+	path = ytfzf
+	url = https://github.com/pystardust/ytfzf
+[submodule "filewatcher"]
+	path = filewatcher
+	url = https://github.com/dnephin/filewatcher
+[submodule "cheat.sh"]
+	path = cheat.sh
+	url = https://github.com/chubin/cheat.sh
